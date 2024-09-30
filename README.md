@@ -3,7 +3,7 @@
 - 🌼 Eu: Hellô
 - 🌱 Explorando programação, HTML e CSS
 - 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: Estudante do 1º ano de Informática no IFRN
+- ⚡ Curiosidade: Estudante do 1º ano de Informática 
 - 🔨 Projetos em andamento: Criando meu primeiro website
 
 
